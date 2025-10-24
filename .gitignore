@@ -1,0 +1,16 @@
+# Node modules for habit-tracker
+habit-tracker/node_modules/
+
+# Build folder for habit-tracker
+habit-tracker/build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode/IDE files
+.vscode/
+.idea/
+
+# Environment files
+.env
